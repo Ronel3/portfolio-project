@@ -3,12 +3,17 @@
   text-align: center;
   background-color: #f9f7fe;
 }
+.about-section {
+  margin-top: 50px;
+}
 
 h1 {
-  font-size: 90px;
+  font-size: 64px;
+  font-weight: bold;
+  font-family: "Playfair Display", serif;
 }
 p {
-  font-size: 25px;
+  font-size: 20px;
   margin-top: 30px;
 }
 button {
@@ -35,4 +40,9 @@ a {
   line-height: 27px;
 
   margin-left: 130px;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: bold;
 }
